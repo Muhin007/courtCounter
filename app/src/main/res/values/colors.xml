@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="buttonTeamB">#FF9800</color>
+    <color name="buttonTeamA">#0067FF</color>
+    <color name="nameTeamA">#616161</color>
+</resources>
